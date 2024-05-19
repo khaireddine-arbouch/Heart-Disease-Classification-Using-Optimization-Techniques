@@ -26,6 +26,7 @@ The project consists of the following files:
 - `code.ipynb`: Jupyter Notebook containing the implementation of neural network training with various optimization techniques.
 - `comparison_table.csv`: CSV file containing the comparison table of performance metrics for different optimization techniques.
 - `README.md`: Project documentation file.
+- `REPORT.pdf`: Project report file.
 
 ## Installation
 
@@ -49,12 +50,12 @@ pip install pandas numpy scikit-learn matplotlib keras tensorflow deap tqdm sima
 # Usage
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/heart-disease-classification.git
+git clone https://github.com/khaireddine-arbouch/Heart-Disease-Classification-Using-Optimization-Techniques.git
 cd heart-disease-classification
 ```
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook code.ipynb
+jupyter notebook Code.ipynb
 ```
 Run the notebook to train the neural network using different optimization techniques and generate the comparison table.
 Optimization Techniques

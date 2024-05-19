@@ -82,6 +82,6 @@ The results of the different optimization techniques are compared based on the f
 The comparison table is saved as comparison_table.csv.
 
 # Acknowledgments
-The Heart Disease Dataset is provided by Kaggle.
-The DEAP library for Genetic Algorithm implementation.
-The Simanneal library for Simulated Annealing implementation.
+- The Heart Disease Dataset is provided by Kaggle.
+- The DEAP library for Genetic Algorithm implementation.
+- The Simanneal library for Simulated Annealing implementation.
